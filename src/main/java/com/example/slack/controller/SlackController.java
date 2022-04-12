@@ -13,6 +13,7 @@ public class SlackController {
         log.error("Log Error Test");
         log.info("Log Info Test");
         log.debug("Log Debug Test");
+        log.error("커밋 테스트");
 
         return "test";
     }
